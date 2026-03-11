@@ -1,4 +1,3 @@
-package ti2;
 import java.util.*;
 
 public class Soma {
@@ -32,3 +31,4 @@ public class Soma {
 	}
 
 }
+
