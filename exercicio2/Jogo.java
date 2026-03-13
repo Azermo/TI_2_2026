@@ -37,3 +37,5 @@ public class Jogo {
         return "Jogo: \nId = " + id + ", \nNome = " + nome + ", \nPlataforma = " + plataforma + ", \nPreço = " + preco + ".";
     }
 }
+
+//Adaptação do codigo de exemplo das video aulas disponibilizadas no canvas de TI2
