@@ -38,4 +38,5 @@ public class Jogo {
     }
 }
 
-//Adaptação do codigo de exemplo das video aulas disponibilizadas no canvas de TI2
+//Adaptação dos codigos de exemplo das video aulas disponibilizadas no canvas de TI2
+
