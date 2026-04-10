@@ -1,14 +1,14 @@
 package service;
 
-import java.util.Scanner;
-import java.io.File;
-import java.util.List;
+import java.util.*;
+import java.io.*;
+import spark.*;
 
 import dao.JogoDAO; 
 import model.Jogo;   
 
-import spark.Request;
-import spark.Response;
+
+
 
 public class JogoService {
 
